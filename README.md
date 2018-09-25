@@ -23,6 +23,9 @@
 
 ### Academic Courses
 
+#### Göteborg University
+- Russian Today
+
 #### Karolinska Institutet
 - Bacteriology
 - Bioinformatics
@@ -56,6 +59,7 @@
 #### Uppsala Universitet
 - Applied Pharmaceutical Bioinformatics
 - Applied Pharmaceutical Structural Bioinformatics
+- Dynamic Web Applications
 - Excursions in the World of Mathematics
 - Pharmaceutical Bioinformatics
 - Scientific Visualisation
