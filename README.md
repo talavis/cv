@@ -56,6 +56,10 @@
 - Software Carpentry Workshop
 - Structure Prediction of Globular and Membrane Proteins
 
+#### Umeå University
+- Data Communication
+- Linux as a Development System
+
 #### Uppsala Universitet
 - Applied Pharmaceutical Bioinformatics
 - Applied Pharmaceutical Structural Bioinformatics
