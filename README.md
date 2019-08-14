@@ -46,6 +46,9 @@
 - Pharmacology with Toxicology
 - Tissue Biology and Pathology
 
+#### Linné University
+- Introduction to Java
+
 #### Stockholm University
 - Applied Bioinformatics
 - Bioinformatics
@@ -59,10 +62,13 @@
 #### Umeå University
 - Data Communication
 - Linux as a Development System
+- Russian (level 1)
 
 #### Uppsala Universitet
 - Applied Pharmaceutical Bioinformatics
 - Applied Pharmaceutical Structural Bioinformatics
+- Computers and programming (C++)
+- Databases 1
 - Dynamic Web Applications
 - Excursions in the World of Mathematics
 - Pharmaceutical Bioinformatics
